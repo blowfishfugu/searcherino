@@ -1,3 +1,9 @@
+# purpose
+
+example for including <python.h> and linking python3.lib
+
+afterwards using pyObject* to traverse a list and find integer in list in the most unsafe manner possible
+
 # prerequired
 
 installed python3.xx
